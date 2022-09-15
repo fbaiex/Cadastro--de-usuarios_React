@@ -1,0 +1,11 @@
+{
+    "users":[{
+        "id":1,
+        "name": "Stackx curso",
+        "email": "contatocurso@stackx.com.br"
+    }, {
+        "id": 2,
+        "name": "Fabio Aiex Alves",
+        "email": "fabio.ax.alves@gmail.com"
+    }]
+}
